@@ -1,0 +1,2 @@
+The test cases 3 and 4 are wrong... They contain some lines with repeated course codes, and the expected results don’t handle these situations =( 
+    I’ve already informed the professor about this, but he hasn’t sent a new set of tests yet 
